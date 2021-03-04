@@ -1,0 +1,8 @@
+{
+    "cars": [
+        {"id": 1, "make": "Skoda", "models": ["Oktavia", "Fabia", "Superb"]},
+        {"id": 2, "make": "Ford", "models": ["Fiesta", "Focus", "Mondeo"]},
+        {"id": 3, "make": "Volvo", "models": ["V70", "XC60", "240"]},
+        {"id": 4, "make": "Opel", "models": ["Astra", "Insignia", "Corsa"]}
+    ]
+}
